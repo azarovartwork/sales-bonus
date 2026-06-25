@@ -1,4 +1,4 @@
-https://github.com/AzarovArtyom/sales-bonus
+https://github.com/azarovartwork/sales-bonus
 
 # Проектная работа "Пряники"
 
